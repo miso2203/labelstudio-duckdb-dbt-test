@@ -1,0 +1,245 @@
+{
+  "id": 3,
+  "result": [
+    {
+      "value": {
+        "taxonomy": [
+          [
+            "KUMHO"
+          ]
+        ]
+      },
+      "id": "WcBvZTQic0",
+      "from_name": "brand_value",
+      "to_name": "image",
+      "type": "taxonomy",
+      "origin": "manual"
+    },
+    {
+      "original_width": 683,
+      "original_height": 512,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            69.50248707979017,
+            17.052980132450333
+          ],
+          [
+            74.34283885856128,
+            21.026490066225165
+          ],
+          [
+            77.56974004440868,
+            25.496688741721858
+          ],
+          [
+            80.42430647804292,
+            30.132450331125828
+          ],
+          [
+            83.1547613276061,
+            37.086092715231786
+          ],
+          [
+            87.12633201787983,
+            35.264900662251655
+          ],
+          [
+            84.5199887523877,
+            28.14569536423841
+          ],
+          [
+            81.41719915061134,
+            22.350993377483444
+          ],
+          [
+            78.19029796476394,
+            18.046357615894042
+          ],
+          [
+            75.08750836298759,
+            14.403973509933774
+          ],
+          [
+            71.73649559306914,
+            11.589403973509933
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "brand"
+        ]
+      },
+      "id": "Pk7kEEpp_6",
+      "from_name": "poly",
+      "to_name": "image",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 683,
+      "original_height": 512,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            30.655561265550308,
+            22.68211920529801
+          ],
+          [
+            37.729921557600385,
+            15.894039735099339
+          ],
+          [
+            44.43194709743729,
+            12.417218543046356
+          ],
+          [
+            51.38219580541631,
+            10.76158940397351
+          ],
+          [
+            56.470770752329514,
+            10.927152317880795
+          ],
+          [
+            57.71188659304005,
+            6.95364238410596
+          ],
+          [
+            50.14107996470577,
+            6.622516556291391
+          ],
+          [
+            42.69438492044254,
+            8.112582781456954
+          ],
+          [
+            36.73702888503195,
+            11.258278145695364
+          ],
+          [
+            32.64134661068717,
+            15.2317880794702
+          ],
+          [
+            28.7938875044845,
+            19.370860927152318
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "size"
+        ]
+      },
+      "id": "Saef9a9iks",
+      "from_name": "poly",
+      "to_name": "image",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 683,
+      "original_height": 512,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            52.21233180506965,
+            13.87324875763693
+          ],
+          [
+            52.346267161018055,
+            15.749259314637005
+          ],
+          [
+            54.53387797484213,
+            15.600369587890967
+          ],
+          [
+            54.84639380538843,
+            13.992360539033758
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "dot"
+        ]
+      },
+      "id": "wF2UBqy91-",
+      "from_name": "poly",
+      "to_name": "image",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "text": [
+          "215/55 R17 94V"
+        ]
+      },
+      "id": "N5ASd7sMS9",
+      "from_name": "size_value",
+      "to_name": "image",
+      "type": "textarea",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "text": [
+          "dot"
+        ]
+      },
+      "id": "OA06gtxuQG",
+      "from_name": "dot_value",
+      "to_name": "image",
+      "type": "textarea",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " nansd0521@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "nansd0521@gmail.com"
+  },
+  "task": {
+    "id": 4,
+    "data": {
+      "ocr": "/data/local-files/?d=Users/bella.s./Documents/labelstudio-duckdb-dbt-test/data/samples/tire_2.jpeg"
+    },
+    "meta": {},
+    "created_at": "2025-03-07T03:26:49.305635Z",
+    "updated_at": "2025-03-07T03:26:49.305649Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 4,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-03-07T05:07:20.352319Z",
+  "updated_at": "2025-03-07T05:07:20.352337Z",
+  "draft_created_at": "2025-03-07T05:05:47.723907Z",
+  "lead_time": 101.508,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

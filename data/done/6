@@ -1,0 +1,211 @@
+{
+  "id": 6,
+  "result": [
+    {
+      "value": {
+        "taxonomy": [
+          [
+            "KUMHO"
+          ]
+        ]
+      },
+      "id": "tUY65PBz3a",
+      "from_name": "brand_value",
+      "to_name": "image",
+      "type": "taxonomy",
+      "origin": "manual"
+    },
+    {
+      "original_width": 620,
+      "original_height": 827,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            78.83972441785943,
+            36.75496688741722
+          ],
+          [
+            83.69819483016448,
+            40.894039735099334
+          ],
+          [
+            86.78994872890406,
+            46.026490066225165
+          ],
+          [
+            87.45246742149112,
+            50.496688741721854
+          ],
+          [
+            92.31093783379617,
+            50.331125827814574
+          ],
+          [
+            90.32338175603502,
+            43.54304635761589
+          ],
+          [
+            87.45246742149112,
+            38.907284768211916
+          ],
+          [
+            82.59399700918605,
+            33.609271523178805
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "brand"
+        ]
+      },
+      "id": "v_CCi6poDy",
+      "from_name": "poly",
+      "to_name": "image",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 620,
+      "original_height": 827,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            21.698661078743516,
+            42.97650673680595
+          ],
+          [
+            26.360590058648963,
+            39.15718746631659
+          ],
+          [
+            30.974457915050234,
+            36.707058122983796
+          ],
+          [
+            35.5883257714515,
+            34.83342980161165
+          ],
+          [
+            40.39443812186949,
+            33.57233381607272
+          ],
+          [
+            44.04708350818716,
+            32.77964491087681
+          ],
+          [
+            49.429929340655306,
+            32.16711257504361
+          ],
+          [
+            49.04544035262187,
+            30.221421625926393
+          ],
+          [
+            42.461066432549224,
+            30.869985275632132
+          ],
+          [
+            36.213120377005836,
+            32.455363086023944
+          ],
+          [
+            30.878335668041874,
+            34.29296009352355
+          ],
+          [
+            26.600895676169866,
+            36.2746823565133
+          ],
+          [
+            23.236617030877273,
+            38.47259250273831
+          ],
+          [
+            19.824277262080503,
+            41.7874733790121
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "size"
+        ]
+      },
+      "id": "ftymBOdScz",
+      "from_name": "poly",
+      "to_name": "image",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "text": [
+          "235/55 R19 101H"
+        ]
+      },
+      "id": "GSDFLKjXGc",
+      "from_name": "size_value",
+      "to_name": "image",
+      "type": "textarea",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "text": [
+          "dot"
+        ]
+      },
+      "id": "bmfK9F_I_O",
+      "from_name": "dot_value",
+      "to_name": "image",
+      "type": "textarea",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " nansd0521@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "nansd0521@gmail.com"
+  },
+  "task": {
+    "id": 7,
+    "data": {
+      "ocr": "/data/local-files/?d=Users/bella.s./Documents/labelstudio-duckdb-dbt-test/data/samples/tire_5.jpeg"
+    },
+    "meta": {},
+    "created_at": "2025-03-07T03:26:49.321612Z",
+    "updated_at": "2025-03-07T03:26:49.321621Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 7,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-03-07T05:14:28.513499Z",
+  "updated_at": "2025-03-07T05:14:28.513509Z",
+  "draft_created_at": "2025-03-07T05:10:44.139058Z",
+  "lead_time": 232.143,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

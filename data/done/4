@@ -1,0 +1,253 @@
+{
+  "id": 4,
+  "result": [
+    {
+      "value": {
+        "taxonomy": [
+          [
+            "CONTINENTAL"
+          ]
+        ]
+      },
+      "id": "_KU4BUdeyF",
+      "from_name": "brand_value",
+      "to_name": "image",
+      "type": "taxonomy",
+      "origin": "manual"
+    },
+    {
+      "original_width": 620,
+      "original_height": 827,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            91.76714396207105,
+            45.884276852168846
+          ],
+          [
+            92.82263832590807,
+            49.62977156366477
+          ],
+          [
+            92.68190574406313,
+            53.2697593818791
+          ],
+          [
+            91.55604508930362,
+            57.648295453064456
+          ],
+          [
+            89.65615523439693,
+            61.13002293135643
+          ],
+          [
+            87.26370134303296,
+            64.29522972980368
+          ],
+          [
+            91.69677767114857,
+            65.77232623574574
+          ],
+          [
+            94.30033043527996,
+            60.97176259143408
+          ],
+          [
+            95.49655738096193,
+            57.38452821986052
+          ],
+          [
+            97.53717981771356,
+            54.166567974772484
+          ],
+          [
+            97.53717981771356,
+            50.10455258343184
+          ],
+          [
+            97.95937756324837,
+            45.673263065605695
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "brand"
+        ]
+      },
+      "id": "j8k3_WnjYq",
+      "from_name": "poly",
+      "to_name": "image",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 620,
+      "original_height": 827,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            13.369595275269255,
+            46.939345784984596
+          ],
+          [
+            14.073258184493953,
+            43.66863209325578
+          ],
+          [
+            11.82153687497492,
+            43.0883441802071
+          ],
+          [
+            10.766042511137872,
+            46.57007165849908
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "dot"
+        ]
+      },
+      "id": "KrSOufejAu",
+      "from_name": "poly",
+      "to_name": "image",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 620,
+      "original_height": 827,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            27.496620124191644,
+            23.30807167579613
+          ],
+          [
+            33.05741127343559,
+            20.925836047859523
+          ],
+          [
+            38.37988280199767,
+            19.288049053653104
+          ],
+          [
+            42.828515721392826,
+            18.30537685712926
+          ],
+          [
+            46.72106952586359,
+            17.6800400047959
+          ],
+          [
+            52.877659726812254,
+            17.20359287920858
+          ],
+          [
+            52.679060042910685,
+            14.880913141970392
+          ],
+          [
+            45.68835116957543,
+            15.208470540811673
+          ],
+          [
+            40.12756002033148,
+            16.07203095593869
+          ],
+          [
+            34.92424830211035,
+            17.2929267152562
+          ],
+          [
+            30.55505525627582,
+            18.811601928065787
+          ],
+          [
+            25.907822652979085,
+            21.253393446700812
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "size"
+        ]
+      },
+      "id": "xtEVE5gsb7",
+      "from_name": "poly",
+      "to_name": "image",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "text": [
+          "255/45 R17 W XL"
+        ]
+      },
+      "id": "J_f9Rcb-3o",
+      "from_name": "size_value",
+      "to_name": "image",
+      "type": "textarea",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "text": [
+          "dot"
+        ]
+      },
+      "id": "UtQA-R_7ba",
+      "from_name": "dot_value",
+      "to_name": "image",
+      "type": "textarea",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " nansd0521@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "nansd0521@gmail.com"
+  },
+  "task": {
+    "id": 5,
+    "data": {
+      "ocr": "/data/local-files/?d=Users/bella.s./Documents/labelstudio-duckdb-dbt-test/data/samples/tire_3.jpeg"
+    },
+    "meta": {},
+    "created_at": "2025-03-07T03:26:49.315290Z",
+    "updated_at": "2025-03-07T03:26:49.315299Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 5,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-03-07T05:09:21.265222Z",
+  "updated_at": "2025-03-07T05:09:21.265239Z",
+  "draft_created_at": "2025-03-07T05:07:42.086333Z",
+  "lead_time": 119.168,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

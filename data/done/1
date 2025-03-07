@@ -1,0 +1,261 @@
+{
+  "id": 1,
+  "result": [
+    {
+      "original_width": 620,
+      "original_height": 827,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            45.998867207060655,
+            33.64520898022998
+          ],
+          [
+            46.123525383773575,
+            37.57035882497479
+          ],
+          [
+            53.675026891152356,
+            37.888135148503274
+          ],
+          [
+            59.83663509669288,
+            38.87979958900278
+          ],
+          [
+            66.32007726208752,
+            41.13608377796636
+          ],
+          [
+            72.42640067019576,
+            43.64499548946079
+          ],
+          [
+            75.4181969113054,
+            40.00021349076919
+          ],
+          [
+            68.82417847211784,
+            37.07612005687598
+          ],
+          [
+            61.88448198884993,
+            35.10666363742412
+          ],
+          [
+            53.57469867094058,
+            33.69258055663507
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "brand"
+        ]
+      },
+      "id": "9R_oGePRtd",
+      "from_name": "poly",
+      "to_name": "image",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "taxonomy": [
+          [
+            "KUMHO"
+          ]
+        ]
+      },
+      "id": "OjOkPFTloH",
+      "from_name": "brand_value",
+      "to_name": "image",
+      "type": "taxonomy",
+      "origin": "manual"
+    },
+    {
+      "original_width": 620,
+      "original_height": 827,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            10.611398513577564,
+            58.418759013718706
+          ],
+          [
+            13.599073823225618,
+            52.93498020661753
+          ],
+          [
+            17.307912138650785,
+            48.37803725423769
+          ],
+          [
+            21.840936746392657,
+            44.825166477805965
+          ],
+          [
+            26.37396135413453,
+            42.27636787732231
+          ],
+          [
+            29.258613377242995,
+            40.80887777401355
+          ],
+          [
+            32.55535854650981,
+            39.72756927683867
+          ],
+          [
+            31.525125681113927,
+            36.63811642776759
+          ],
+          [
+            26.476984640674125,
+            38.49178813721024
+          ],
+          [
+            22.253029892551005,
+            40.80887777401355
+          ],
+          [
+            18.132098430967485,
+            43.43491269572396
+          ],
+          [
+            15.350469694398615,
+            45.75200233252727
+          ],
+          [
+            12.877910817448502,
+            48.300800933010905
+          ],
+          [
+            10.199305367419212,
+            51.54472642453555
+          ],
+          [
+            8.447909496246217,
+            54.24799766747275
+          ],
+          [
+            7.108606771231572,
+            57.4146868377706
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "size"
+        ]
+      },
+      "id": "0xMtPU6cg9",
+      "from_name": "poly",
+      "to_name": "image",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 620,
+      "original_height": 827,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            42.829276030097304,
+            41.11729409356012
+          ],
+          [
+            38.182043426800554,
+            41.86174272729033
+          ],
+          [
+            37.58624437509586,
+            40.70040285867123
+          ],
+          [
+            42.59095640941541,
+            39.77728655284578
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "dot"
+        ]
+      },
+      "id": "tTm7kmG_7y",
+      "from_name": "poly",
+      "to_name": "image",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "text": [
+          "185/65 R15 88H"
+        ]
+      },
+      "id": "eir2FTDt1I",
+      "from_name": "size_value",
+      "to_name": "image",
+      "type": "textarea",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "text": [
+          "1524"
+        ]
+      },
+      "id": "8rzVaCZUJl",
+      "from_name": "dot_value",
+      "to_name": "image",
+      "type": "textarea",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " nansd0521@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "nansd0521@gmail.com"
+  },
+  "task": {
+    "id": 2,
+    "data": {
+      "ocr": "/data/local-files/?d=Users/bella.s./Documents/labelstudio-duckdb-dbt-test/data/samples/tire_1.jpeg"
+    },
+    "meta": {},
+    "created_at": "2025-03-07T03:26:49.296506Z",
+    "updated_at": "2025-03-07T03:26:49.296520Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 2,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-03-07T04:45:09.201223Z",
+  "updated_at": "2025-03-07T04:45:09.201233Z",
+  "draft_created_at": "2025-03-07T03:48:58.978065Z",
+  "lead_time": 1933.1209999999999,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "data": {
+      "ocr": "/data/local-files/?d=Users/bella.s./Documents/labelstudio-duckdb-dbt-test/data/samples/tire_1.jpeg"
+    }
+  },
+  {
+    "id": 2,
+    "data": {
+      "ocr": "/data/local-files/?d=Users/bella.s./Documents/labelstudio-duckdb-dbt-test/data/samples/tire_2.jpeg"
+    }
+  }
+]

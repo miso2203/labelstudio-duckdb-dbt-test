@@ -1,0 +1,289 @@
+{
+  "id": 8,
+  "result": [
+    {
+      "value": {
+        "taxonomy": [
+          [
+            "CONTINENTAL"
+          ]
+        ]
+      },
+      "id": "cWfyUGIUA7",
+      "from_name": "brand_value",
+      "to_name": "image",
+      "type": "taxonomy",
+      "origin": "manual"
+    },
+    {
+      "original_width": 683,
+      "original_height": 512,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            45.851223223141666,
+            11.069048848326808
+          ],
+          [
+            56.82637983107784,
+            8.879787176825522
+          ],
+          [
+            65.13467595484259,
+            10.521733430451487
+          ],
+          [
+            71.90439872235461,
+            14.626599064516398
+          ],
+          [
+            77.545834361948,
+            20.510239806676104
+          ],
+          [
+            81.03326730278751,
+            26.530709403304638
+          ],
+          [
+            84.62327180071057,
+            35.42458494377861
+          ],
+          [
+            87.70041851321602,
+            33.64580983568382
+          ],
+          [
+            83.70012778695892,
+            22.152186060302068
+          ],
+          [
+            77.65896703497296,
+            14.345897173754512
+          ],
+          [
+            71.86844801733655,
+            8.885479764644517
+          ],
+          [
+            64.54991675938889,
+            5.533848627160792
+          ],
+          [
+            57.2366660594119,
+            4.364434979354119
+          ],
+          [
+            49.54379927814822,
+            5.048579251698271
+          ],
+          [
+            44.825507652306506,
+            6.827354359793065
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "brand"
+        ]
+      },
+      "id": "FXoU53YQ43",
+      "from_name": "poly",
+      "to_name": "image",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 683,
+      "original_height": 512,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            64.91165624004715,
+            5.08351394902134
+          ],
+          [
+            68.5067267418551,
+            6.618159669480613
+          ],
+          [
+            70.51996622286757,
+            7.8171016385894205
+          ],
+          [
+            72.82081134402466,
+            9.207874322755636
+          ],
+          [
+            74.1509874296936,
+            10.406816291864441
+          ],
+          [
+            75.94852268059759,
+            11.941462012323715
+          ],
+          [
+            78.5729241469174,
+            14.770965059420496
+          ],
+          [
+            80.19070587273099,
+            16.833145246287646
+          ],
+          [
+            81.44898054836376,
+            18.463706324275623
+          ],
+          [
+            82.88700874908695,
+            17.504552748988576
+          ],
+          [
+            81.48493125338184,
+            14.866880416949204
+          ],
+          [
+            79.00433260713436,
+            12.325123442438533
+          ],
+          [
+            76.23612832074222,
+            9.447662716577396
+          ],
+          [
+            74.1509874296936,
+            7.673228602296361
+          ],
+          [
+            71.63443807842805,
+            5.994709845544033
+          ],
+          [
+            69.83690282752406,
+            4.699852518906522
+          ],
+          [
+            67.85961405152968,
+            3.8366143011481806
+          ],
+          [
+            65.66662104542682,
+            2.9254184046254883
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "size"
+        ]
+      },
+      "id": "_iEWTR-NJt",
+      "from_name": "poly",
+      "to_name": "image",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 683,
+      "original_height": 512,
+      "image_rotation": 0,
+      "value": {
+        "points": [
+          [
+            27.868505451725106,
+            58.69405128026338
+          ],
+          [
+            29.371244921480834,
+            58.48303749370024
+          ],
+          [
+            28.857149839722297,
+            55.476091035175344
+          ],
+          [
+            27.314864594446682,
+            55.89811860830164
+          ]
+        ],
+        "closed": true,
+        "polygonlabels": [
+          "dot"
+        ]
+      },
+      "id": "lIMZg7X0_N",
+      "from_name": "poly",
+      "to_name": "image",
+      "type": "polygonlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "text": [
+          "235/63R18 107V"
+        ]
+      },
+      "id": "4aA3vdwZz_",
+      "from_name": "size_value",
+      "to_name": "image",
+      "type": "textarea",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "text": [
+          "dot"
+        ]
+      },
+      "id": "xPVgKmSaWo",
+      "from_name": "dot_value",
+      "to_name": "image",
+      "type": "textarea",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " nansd0521@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "nansd0521@gmail.com"
+  },
+  "task": {
+    "id": 9,
+    "data": {
+      "ocr": "/data/local-files/?d=Users/bella.s./Documents/labelstudio-duckdb-dbt-test/data/samples/tire_7.jpeg"
+    },
+    "meta": {},
+    "created_at": "2025-03-07T03:26:49.327210Z",
+    "updated_at": "2025-03-07T03:26:49.327218Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 9,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-03-07T05:19:33.309327Z",
+  "updated_at": "2025-03-07T05:19:33.309345Z",
+  "draft_created_at": "2025-03-07T05:16:37.375756Z",
+  "lead_time": 185.823,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}
