@@ -8,8 +8,7 @@
     └── samples_done : samples 폴더 라벨링 결과
 ```
 
-### Label Studio
-[라벨스튜디오 정리](https://dahye0322.notion.site/1af5a87878ee80c689b2f32fdcec332f?pvs=4)
+### [Label Studio](https://dahye0322.notion.site/1af5a87878ee80c689b2f32fdcec332f?pvs=4)
 - 빠른 시작
 - 환경 변수 세팅
 - 프로젝트 데이터의 로컬 경로 설정
