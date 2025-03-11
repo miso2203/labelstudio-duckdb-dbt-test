@@ -1,0 +1,73 @@
+[
+    {
+      "data": {
+        "ocr": "/data/local-files/?d=Users/bella.s./Documents/labelstudio-duckdb-dbt-test/data/samples/tire_1.jpeg"
+      },
+      "predictions": [
+        {
+          "result": [
+            {
+              "from_name": "label",
+              "to_name": "image",
+              "type": "rectanglelabels",
+              "value": {
+                "x": 45.71378978850672,
+                "y": 33.94039735099338,
+                "width": 30.03418073061311,
+                "height": 9.933774834437088,
+                "rectanglelabels": ["brand"]
+              }
+            },
+            {
+              "from_name": "label",
+              "to_name": "image",
+              "type": "rectanglelabels",
+              "value": {
+                "x": 7.520699917389925,
+                "y": 36.869825391447904,
+                "width": 24.931635342580293,
+                "height": 21.70340626472433,
+                "rectanglelabels": ["size"]
+              }
+            },
+            {
+              "from_name": "label",
+              "to_name": "image",
+              "type": "rectanglelabels",
+              "value": {
+                "x": 37.69881305997353,
+                "y": 39.847974637912586,
+                "width": 5.068263933168055,
+                "height": 2.1291230924683404,
+                "rectanglelabels": ["dot"]
+              }
+            }
+          ]          
+        }
+      ]
+    },
+    {
+      "data": {
+        "ocr": "/data/local-files/?d=Users/bella.s./Documents/labelstudio-duckdb-dbt-test/data/samples/tire_2.jpeg"
+      },
+      "predictions": [
+        {
+          "result": [
+            {
+              "from_name": "label",
+              "to_name": "image",
+              "type": "rectanglelabels",
+              "value": {
+                "x": 15,
+                "y": 25,
+                "width": 35,
+                "height": 45,
+                "rectanglelabels": ["Dot"]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  
