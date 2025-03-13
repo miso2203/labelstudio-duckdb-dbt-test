@@ -1,12 +1,17 @@
 ## Directory
 
 ```
-└── data
-    ├── json_data            : 타이어 샘플 여러 개가 들어있는 json 파일
-    ├── json_data_one_task   : 타이어 샘플 1 개가 들어있는 json 파일
-    ├── json_done            : json_data 폴더 라벨링 결과
-    ├── samples              : 타이어 샘플 이미지 10장
-    └── samples_done         : samples 폴더 라벨링 결과
+.
+├── data
+│   ├── json_data            : 타이어 샘플 여러 개가 들어있는 json 파일
+│   ├── json_data_one_task   : 타이어 샘플 1 개씩 들어있는 json 파일
+│   ├── json_done            : json_data 폴더 라벨링 결과
+│   ├── pre_annotation_json  : Python SDK test json 파일
+│   ├── samples              : 타이어 샘플 이미지 10장
+│   └── samples_done         : samples 폴더 라벨링 결과
+└── src
+    ├── sdk_test             : Python SDK test 코드
+    └── yolo_pred_test       : YOLO prediction test 코드
 ```
 <br>
 
